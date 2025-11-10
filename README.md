@@ -24,6 +24,7 @@
 ---
 
 
+
 ### 🚩 **New Features** 
 - ✅ Release dataset
 - ✅ 🎉 Our paper was accepted by **ICCV 2025**!
@@ -32,7 +33,11 @@
 - [x] Release code
 
 ---
+## 👍 Acknowledgement
 
+Thanks for their awesome works ([3DGS](https://github.com/graphdeco-inria/gaussian-splatting) and [RainyScape](https://github.com/lyuxianqiang/RainyScape))
+
+---
 
 ## ❣ Citation
 ```
