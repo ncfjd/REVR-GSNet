@@ -23,11 +23,11 @@
 
 ---
 ### 🚩 **New Features** 
-- ✅ Release dataset
-- ✅ 🎉 Our paper was accepted by **ICCV 2025**!
+- ✅ 🎉 Our paper was accepted by **AAAI 2026**!
 
 ### ⚡ **To Do**
 - [x] Release code
+- [x] Release dataset
 ---
 
 ## :book: Dataset
