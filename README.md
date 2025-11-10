@@ -32,9 +32,9 @@
 
 ## :book: Dataset
 ### 🔎 Illustration of OmniRain3D 
-<p align='center'>
-<img src='./figs/garden_tuning.mp4' width=300>
-<img src='./figs/horse_tuning.mp4' width=300>
+<p align='left'>
+<img src='./figs/garden_tuning.gif' width=260>
+<img src='./figs/horse_tuning.gif' width=300>
 </p>
 
 
