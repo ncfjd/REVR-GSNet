@@ -31,7 +31,7 @@
 ---
 
 ## :book: Dataset
-### 🔎 Illustration of OmniRain3D 
+### 🔎 Visual of OmniRain3D
 <p align='left'>
 <img src='./figs/garden_tuning.gif' width=260>
 <img src='./figs/horse_tuning.gif' width=300>
