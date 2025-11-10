@@ -19,20 +19,28 @@
   <img width="1000" src="./figs/REVR-GSNet.png">
 </p>
 
-*Illustration of key characteristics in real rainy scenes. (a) **Perspective Heterogeneity**: Rain streaks vary in appearance across both vertical and horizontal directions, as shown in real observations. (b) **Brightness Dynamicity**: An increase in rainfall is often accompanied by a decrease in ambient brightness, as confirmed by images ranging from sunny to heavy rain conditions.*
+*Key characteristics in real rainy scenes. (a) **Perspective Heterogeneity**: Rain streaks vary in appearance across both vertical and horizontal directions, as shown in real observations. (b) **Brightness Dynamicity**: An increase in rainfall is often accompanied by a decrease in ambient brightness, as confirmed by images ranging from sunny to heavy rain conditions.*
 
 ---
-
-
-
 ### 🚩 **New Features** 
 - ✅ Release dataset
 - ✅ 🎉 Our paper was accepted by **ICCV 2025**!
 
 ### ⚡ **To Do**
 - [x] Release code
+---
+
+## :book: Dataset
+
+### ⬇️ Dataset Download
+| Download Link | 
+|---------|
+| [Google Drive]() / [Baidu Netdisk]()  | 
 
 ---
+
+
+
 ## 👍 Acknowledgement
 
 Thanks for their awesome works ([3DGS](https://github.com/graphdeco-inria/gaussian-splatting) and [RainyScape](https://github.com/lyuxianqiang/RainyScape))
