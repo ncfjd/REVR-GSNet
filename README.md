@@ -45,6 +45,8 @@
 |Horse | [Google Drive](https://drive.google.com/drive/folders/1a77De7Zqb0-S7Wfl0A6KAuW4bSCWOak-?usp=drive_link) | 
 |Francis| [Google Drive](https://drive.google.com/drive/folders/1U9rQCVCwp6HLvmsTyAeiUek6KgDz0nXH?usp=drive_link) | 
 |Caterpillar| [Google Drive](https://drive.google.com/drive/folders/19F0V9TSL0I64UT2q5JRcXl0KvskTYOML?usp=drive_link) | 
+|Truck | [Google Drive](https://drive.google.com/drive/folders/1MQLC1LVoFeqrCNDz2B44KJC8eVvZoLs2?usp=drive_link)| 
+|Garden | [Google Drive]()| 
 ---
 
 
