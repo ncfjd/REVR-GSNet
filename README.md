@@ -49,6 +49,7 @@
 |Garden | [Google Drive](https://drive.google.com/drive/folders/1pdXTfU8sGDZSYwed0YZktSXm9ru0G98x?usp=drive_link)| 
 |Lgnatius | [Google Drive](https://drive.google.com/drive/folders/1h8IS3g_-tG7VIsB6q7N5ofGLTR_Pmoib?usp=drive_link)| 
 |Bicycle |[Google Drive](https://drive.google.com/drive/folders/15RVODBXDTb7U3QKzGHwXQD_pQ6SHe4Q1?usp=drive_link)| 
+|Stump |[Google Drive](https://drive.google.com/drive/folders/1DA058TI-UmBhXpfkyP1TVKgLftY_Kd7U?usp=drive_link)| 
 ---
 
 
