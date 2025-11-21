@@ -22,13 +22,6 @@
 *Key characteristics in real rainy scenes. (a) **Perspective Heterogeneity**: Rain streaks vary in appearance across both vertical and horizontal directions, as shown in real observations. (b) **Brightness Dynamicity**: An increase in rainfall is often accompanied by a decrease in ambient brightness, as confirmed by images ranging from sunny to heavy rain conditions.*
 
 ---
-### 🚩 **New Features** 
-- ✅ 🎉 Our paper was accepted by **AAAI 2026**!
-
-### ⚡ **To Do**
-- [x] Release code
-- [x] Release dataset
----
 
 ## :book: Dataset
 ### 🔎 Visual of OmniRain3D
