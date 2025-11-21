@@ -55,8 +55,11 @@ Thanks for their awesome works ([3DGS](https://github.com/graphdeco-inria/gaussi
 
 ## ❣ Citation
 ```
-@article{
-
+@inproceedings{yang2026rethinking,
+  title={Rethinking Rainy 3D Scene Reconstruction via Perspective Transforming and Brightness Tuning},
+  author={Qianfeng Yang, Xiang Chen, Pengpeng Li, Qiyuan Guan, Guiyue Jin, Jiyu Jin},
+  booktitle={AAAI},
+  year={2026}
 }
 ```
 
